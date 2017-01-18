@@ -19,5 +19,4 @@ private:
     vector <vector<char> > letters_;
 };
 
-
 #endif //BOGGLE_SOLVER_BOARD_H
