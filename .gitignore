@@ -1,0 +1,4 @@
+CMakeLists.txt
+main.exe.*
+Boggle_Solver.exe.*
+/.idea
